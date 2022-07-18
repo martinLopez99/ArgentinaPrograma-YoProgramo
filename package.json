@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "name": "portafolioweb",
+  "version": "1.0.0",
+  "description": "Primera version con las ideas basicas para mi portafolio web (Maqueta)",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server -p 8436"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinLopez99/Portafolio-Front-End.git"
+  },
+  "keywords": [
+    "keywords"
+  ],
+  "author": "Lopez Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinLopez99/Portafolio-Front-End/issues"
+  },
+  "homepage": "https://github.com/martinLopez99/Portafolio-Front-End#readme"
+}
