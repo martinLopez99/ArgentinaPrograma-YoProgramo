@@ -1,12 +1,13 @@
 {
   "dependencies": {
+    "@popperjs/core": "^2.11.5",
+    "bootstrap": "^5.2.0-beta1",
     "http-server": "^14.1.1"
   },
   "name": "portafolioweb",
   "version": "1.0.0",
   "description": "Primera version con las ideas basicas para mi portafolio web (Maqueta)",
   "main": "app.js",
-  "devDependencies": {},
   "scripts": {
     "start": "http-server -p 8436"
   },
